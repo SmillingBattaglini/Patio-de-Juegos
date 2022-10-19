@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+h1 {
+    text-align: center;
+}
+.box {
+    margin: 50px;
+    padding: 50px;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(98, 191, 238);
+    border: 1px solid rgb(12, 18, 12)
+}
